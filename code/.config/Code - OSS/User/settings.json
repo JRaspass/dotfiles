@@ -1,0 +1,9 @@
+{
+    "editor.minimap.enabled": false,
+    "editor.renderWhitespace": "all",
+    "editor.scrollBeyondLastLine": false,
+    "editor.wordWrap": "on",
+    "go.docsTool": "gogetdoc",
+    "window.titleBarStyle": "custom",
+    "workbench.colorTheme": "GitHub Plus"
+}
