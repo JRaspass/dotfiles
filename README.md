@@ -3,7 +3,7 @@
 ```
 git clone git@github.com:JRaspass/dotfiles.git
 cd dotfiles
-yay code
+yay stow
 stow code
 ```
 
