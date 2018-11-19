@@ -1,9 +1,20 @@
 {
+    "editor.autoClosingBrackets": "never",
+    "editor.autoClosingQuotes": "never",
+    "editor.folding": false,
+    "editor.fontSize": 12,
     "editor.minimap.enabled": false,
     "editor.renderWhitespace": "all",
+    "editor.rulers": [78],
     "editor.scrollBeyondLastLine": false,
     "editor.wordWrap": "on",
+    "explorer.autoReveal": false,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
     "go.docsTool": "gogetdoc",
     "window.titleBarStyle": "custom",
-    "workbench.colorTheme": "GitHub Plus"
+    "workbench.activityBar.visible": false,
+    "workbench.colorTheme": "GitHub Plus",
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.enablePreviewFromQuickOpen": false
 }
