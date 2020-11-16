@@ -10,9 +10,14 @@
     "editor.wordWrap": "on",
     "explorer.autoReveal": false,
     "explorer.confirmDelete": false,
+    "files.associations": {
+        "*.raku": "perl6",
+        "*.rakumod": "perl6"
+    },
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
     "go.docsTool": "gogetdoc",
+    "go.useLanguageServer": true,
     "html.autoClosingTags": false,
     "window.titleBarStyle": "custom",
     "workbench.activityBar.visible": false,
